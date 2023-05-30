@@ -1,0 +1,13 @@
+{
+  "app": {
+    "title": "Titulo del app",
+    "access_to": "Acceder a",
+    "log_out": "Cerrar Sessión"
+  },
+  "login": {
+    "email": "Correo electrónico",
+    "log_in": "Iniciar Sesión",
+    "log_in_with_google": "Accede con Google",
+    "log_in_error": "Error al iniciar sesión"
+  }
+}

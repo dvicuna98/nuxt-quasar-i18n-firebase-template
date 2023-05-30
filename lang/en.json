@@ -1,0 +1,13 @@
+{
+  "app": {
+    "title": "App Title",
+    "access_to": "Access to",
+    "log_out": "Log Out"
+  },
+  "login": {
+    "email": "Email",
+    "log_in": "Log In",
+    "log_in_with_google": "Log in with Google",
+    "log_in_error": "Error on log in"
+  }
+}
